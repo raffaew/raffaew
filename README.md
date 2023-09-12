@@ -1,5 +1,4 @@
 # <p align="center"> Hello Word, me chamo Rafael👋🏽 </p>
-## **<p align="center">**
  - Cursando **Análise e Desenvolvimento de Sistemas**
  - Tenho conhecimentos em: **HTML, CSS e JavaScript**
  - Estudando: **Git e Tailwind css**
