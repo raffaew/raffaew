@@ -6,7 +6,7 @@
  - Cursando **Análise e Desenvolvimento de Sistemas**
  - Tenho conhecimentos em: **HTML, CSS e JavaScript**
  - Estudando: **C#, Programação Orientada a Objeto**
- - Quero aprender: **React e React Native**
+ - Quero aprender: **Sass, jQuery, +JS**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaew&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
 
