@@ -4,7 +4,7 @@
    [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:raffa96dias@gmail.com)
    [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/raffaeew/)
  - Formado: **Análise e Desenvolvimento de Sistemas**
- - Tenho conhecimentos em: **React / TypeScript / Jest / React Testing Library SASS**
+ - Tenho conhecimentos em: **React / TypeScript / Jest / React Testing Library / SASS**
  - Estudando: **Next.JS**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaew&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
