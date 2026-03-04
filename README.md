@@ -1,18 +1,33 @@
-# <p align="center"> Hello Word, me chamo Rafael👋🏽 </p>
+#  Rafael Dias
+## 📩 Contatos
+<p align="center">
+  <a href="https://www.linkedin.com/in/raffaew/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:raffa96dias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raffaew/)
-   [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:raffa96dias@gmail.com)
-   [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/raffaeew/)
- - Formado: **Análise e Desenvolvimento de Sistemas**
- - Tenho conhecimentos em: **React / TypeScript / Jest / React Testing Library / SASS**
- - Estudando: **Next.JS**
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaew&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=transparent)
+## 🚀 Sobre mim
 
- 
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+💻 Foco em desenvolvimento Frontend com **React e TypeScript**  
+🧪 Experiência com testes utilizando **Vitest e React Testing Library**  
+📚 Atualmente estudando **Next.js**
 
-  
-   
+---
 
+## 🛠️ Stack Principal
 
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vitest,git" />
+</p>
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil 👋🏽
+</p>
