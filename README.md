@@ -16,14 +16,20 @@
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 💻 Foco em desenvolvimento Frontend com **React e TypeScript**  
 🧪 Experiência com testes utilizando **Vitest e React Testing Library**  
-📚 Atualmente estudando **Node.js**
 
 ---
 
-## 🛠️ Stack Principal
+## 💻 Stack Principal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vitest,git,nodejs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vitest,git" />
+</p>
+
+---
+
+## ✍🏽 Estou aprendendo
+ <p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
