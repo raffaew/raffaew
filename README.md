@@ -15,7 +15,6 @@
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 💻 Foco em desenvolvimento Frontend com **React e TypeScript**  
-🧪 Experiência com testes utilizando **Vitest e React Testing Library**  
 
 ---
 
