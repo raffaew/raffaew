@@ -26,7 +26,7 @@
 
 ---
 
-## ✍🏽 Estou aprendendo
+## ✍🏽 Estudando
  <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" />
    <img src="https://skillicons.dev/icons?i=next" />
