@@ -14,7 +14,9 @@
 ## 🚀 Sobre mim
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-💻 Foco em desenvolvimento Frontend com **React e TypeScript**  
+
+Desenvolvedor Front-end com foco em **React** e **TypeScript**, com mais de 2 anos de experiência.
+Meu principal diferencial é a construção de **componentes reutilizáveis**, mantendo disciplina na organização e documentação do código.
 
 ---
 
